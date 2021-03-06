@@ -6,5 +6,7 @@ public class Main {
 	 for(int i=0; i<8; i++){
          System.out.println("Hello");
      }
+
+        System.out.println("Have a good day");
     }
 }
